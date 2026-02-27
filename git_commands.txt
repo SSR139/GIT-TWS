@@ -1,5 +1,9 @@
-Set global username and email for Git (Locally).
+This si the list of all the commands which we use in Git
 
+
+
+Set global username and email for Git (Locally).
+   
 git config --global user.name "<your username>"
 git config --global user.email "<your email>"
 Initialise an empty Git Repository
